@@ -47,12 +47,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Recipe */
 .recipe {
+	width: 800px;
+	margin: 0 auto;
 	padding: 0.75rem;
 	line-height: 25px;
 }
 
 .recipe-summary {
-	width: 50%;
+
 	float: left;
 }
 
